@@ -1,0 +1,12 @@
+1|Action|
+2|Fantasy|
+3|Horror|
+4|Humour|
+5|Romance|
+6|Mystery|
+7|Biography|
+8|Textbook|
+9|Reference book|
+10|Poetry|
+11|Self-help|
+12|Generic|

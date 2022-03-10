@@ -1,0 +1,4 @@
+BookID   Title                          Author               Genre              Edition    ISBN               Year     Pages    Copies  
+1001     Very though assignment         John Dole            Horror             1          12345678           2022     300      2       
+1002     Second book                    Mary Hung            Humour             1          5674536X           2015     380      1       
+1003     Tomorrow will be better        Iwanna Sleep         Mystery            1          4679834XA          2008     500      3       
